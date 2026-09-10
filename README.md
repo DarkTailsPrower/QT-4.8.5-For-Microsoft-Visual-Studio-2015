@@ -19,6 +19,8 @@ cd C:\keymaster\Roblox2016\Library\Qt
 
 set PATH=%PATH%;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86
 
+configure.exe -make nmake -platform win32-msvc2015 -prefix C:\keymaster\Roblox2016\Library\Qt -opensource -confirm-license -opengl desktop -nomake examples -nomake tests -webkit -xmlpatterns
+
 ## ➡️ Шаг 4. Запустите продолжение сборки
 Теперь просто запустите компиляцию:
 
