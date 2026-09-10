@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qgenericbearer", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/bearer/generic\qgenericbearer.vcxproj", "{D3283317-467B-3F3B-BAE7-29FE11729A54}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qnativewifibearer", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/bearer/nativewifi\qnativewifibearer.vcxproj", "{0AD23A77-E556-3B48-A07F-1875DCB276CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D3283317-467B-3F3B-BAE7-29FE11729A54}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3283317-467B-3F3B-BAE7-29FE11729A54}.Debug|Win32.Build.0 = Debug|Win32
+		{D3283317-467B-3F3B-BAE7-29FE11729A54}.Release|Win32.ActiveCfg = Release|Win32
+		{D3283317-467B-3F3B-BAE7-29FE11729A54}.Release|Win32.Build.0 = Release|Win32
+		{0AD23A77-E556-3B48-A07F-1875DCB276CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0AD23A77-E556-3B48-A07F-1875DCB276CA}.Debug|Win32.Build.0 = Debug|Win32
+		{0AD23A77-E556-3B48-A07F-1875DCB276CA}.Release|Win32.ActiveCfg = Release|Win32
+		{0AD23A77-E556-3B48-A07F-1875DCB276CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

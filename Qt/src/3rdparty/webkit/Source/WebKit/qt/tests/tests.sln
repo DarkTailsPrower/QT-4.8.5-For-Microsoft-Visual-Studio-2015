@@ -1,0 +1,88 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qwebframe", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qwebframe\tst_qwebframe.vcxproj", "{11005EF7-0607-387C-AC3D-30A1E54A3AA1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qwebpage", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qwebpage\tst_qwebpage.vcxproj", "{89C428D6-59BF-3411-8B90-27C607D4A713}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qwebelement", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qwebelement\tst_qwebelement.vcxproj", "{5AA907FD-67CC-32D1-8C96-44494BE8B653}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qgraphicswebview", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qgraphicswebview\tst_qgraphicswebview.vcxproj", "{183F4B04-B61D-324A-8AD2-461E5E92C1F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qwebhistoryinterface", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qwebhistoryinterface\tst_qwebhistoryinterface.vcxproj", "{52F2F80E-E8E1-3FBC-A4ED-D0D203FEE6E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qwebview", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qwebview\tst_qwebview.vcxproj", "{8766F67B-D8B4-38C2-9F95-85A095620CD2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qwebhistory", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qwebhistory\tst_qwebhistory.vcxproj", "{D977B2F7-A4AE-3643-9BA9-1B439FFC5588}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qwebinspector", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qwebinspector\tst_qwebinspector.vcxproj", "{71522E89-ACB7-3CCE-8D64-F5CAA374DCCA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hybridPixmap", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/hybridPixmap\hybridPixmap.vcxproj", "{A71BB995-C16D-3806-B35E-C7DAC9900532}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_qdeclarativewebview", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/qdeclarativewebview\tst_qdeclarativewebview.vcxproj", "{511A6414-9D60-3031-B29D-0A778C6D1E1F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_painting", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/benchmarks/painting\tst_painting.vcxproj", "{892D81BD-21AD-3EB5-9BD1-2EB4F2C6818F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tst_loading", "C:/keymaster/Roblox2016/Library/Qt/src/3rdparty/webkit/Source/WebKit/qt/tests/benchmarks/loading\tst_loading.vcxproj", "{DBF83F1D-7777-3436-9CFF-4728859F745C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{11005EF7-0607-387C-AC3D-30A1E54A3AA1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11005EF7-0607-387C-AC3D-30A1E54A3AA1}.Debug|Win32.Build.0 = Debug|Win32
+		{11005EF7-0607-387C-AC3D-30A1E54A3AA1}.Release|Win32.ActiveCfg = Release|Win32
+		{11005EF7-0607-387C-AC3D-30A1E54A3AA1}.Release|Win32.Build.0 = Release|Win32
+		{89C428D6-59BF-3411-8B90-27C607D4A713}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89C428D6-59BF-3411-8B90-27C607D4A713}.Debug|Win32.Build.0 = Debug|Win32
+		{89C428D6-59BF-3411-8B90-27C607D4A713}.Release|Win32.ActiveCfg = Release|Win32
+		{89C428D6-59BF-3411-8B90-27C607D4A713}.Release|Win32.Build.0 = Release|Win32
+		{5AA907FD-67CC-32D1-8C96-44494BE8B653}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5AA907FD-67CC-32D1-8C96-44494BE8B653}.Debug|Win32.Build.0 = Debug|Win32
+		{5AA907FD-67CC-32D1-8C96-44494BE8B653}.Release|Win32.ActiveCfg = Release|Win32
+		{5AA907FD-67CC-32D1-8C96-44494BE8B653}.Release|Win32.Build.0 = Release|Win32
+		{183F4B04-B61D-324A-8AD2-461E5E92C1F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{183F4B04-B61D-324A-8AD2-461E5E92C1F3}.Debug|Win32.Build.0 = Debug|Win32
+		{183F4B04-B61D-324A-8AD2-461E5E92C1F3}.Release|Win32.ActiveCfg = Release|Win32
+		{183F4B04-B61D-324A-8AD2-461E5E92C1F3}.Release|Win32.Build.0 = Release|Win32
+		{52F2F80E-E8E1-3FBC-A4ED-D0D203FEE6E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52F2F80E-E8E1-3FBC-A4ED-D0D203FEE6E2}.Debug|Win32.Build.0 = Debug|Win32
+		{52F2F80E-E8E1-3FBC-A4ED-D0D203FEE6E2}.Release|Win32.ActiveCfg = Release|Win32
+		{52F2F80E-E8E1-3FBC-A4ED-D0D203FEE6E2}.Release|Win32.Build.0 = Release|Win32
+		{8766F67B-D8B4-38C2-9F95-85A095620CD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8766F67B-D8B4-38C2-9F95-85A095620CD2}.Debug|Win32.Build.0 = Debug|Win32
+		{8766F67B-D8B4-38C2-9F95-85A095620CD2}.Release|Win32.ActiveCfg = Release|Win32
+		{8766F67B-D8B4-38C2-9F95-85A095620CD2}.Release|Win32.Build.0 = Release|Win32
+		{D977B2F7-A4AE-3643-9BA9-1B439FFC5588}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D977B2F7-A4AE-3643-9BA9-1B439FFC5588}.Debug|Win32.Build.0 = Debug|Win32
+		{D977B2F7-A4AE-3643-9BA9-1B439FFC5588}.Release|Win32.ActiveCfg = Release|Win32
+		{D977B2F7-A4AE-3643-9BA9-1B439FFC5588}.Release|Win32.Build.0 = Release|Win32
+		{71522E89-ACB7-3CCE-8D64-F5CAA374DCCA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71522E89-ACB7-3CCE-8D64-F5CAA374DCCA}.Debug|Win32.Build.0 = Debug|Win32
+		{71522E89-ACB7-3CCE-8D64-F5CAA374DCCA}.Release|Win32.ActiveCfg = Release|Win32
+		{71522E89-ACB7-3CCE-8D64-F5CAA374DCCA}.Release|Win32.Build.0 = Release|Win32
+		{A71BB995-C16D-3806-B35E-C7DAC9900532}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A71BB995-C16D-3806-B35E-C7DAC9900532}.Debug|Win32.Build.0 = Debug|Win32
+		{A71BB995-C16D-3806-B35E-C7DAC9900532}.Release|Win32.ActiveCfg = Release|Win32
+		{A71BB995-C16D-3806-B35E-C7DAC9900532}.Release|Win32.Build.0 = Release|Win32
+		{511A6414-9D60-3031-B29D-0A778C6D1E1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{511A6414-9D60-3031-B29D-0A778C6D1E1F}.Debug|Win32.Build.0 = Debug|Win32
+		{511A6414-9D60-3031-B29D-0A778C6D1E1F}.Release|Win32.ActiveCfg = Release|Win32
+		{511A6414-9D60-3031-B29D-0A778C6D1E1F}.Release|Win32.Build.0 = Release|Win32
+		{892D81BD-21AD-3EB5-9BD1-2EB4F2C6818F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{892D81BD-21AD-3EB5-9BD1-2EB4F2C6818F}.Debug|Win32.Build.0 = Debug|Win32
+		{892D81BD-21AD-3EB5-9BD1-2EB4F2C6818F}.Release|Win32.ActiveCfg = Release|Win32
+		{892D81BD-21AD-3EB5-9BD1-2EB4F2C6818F}.Release|Win32.Build.0 = Release|Win32
+		{DBF83F1D-7777-3436-9CFF-4728859F745C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBF83F1D-7777-3436-9CFF-4728859F745C}.Debug|Win32.Build.0 = Debug|Win32
+		{DBF83F1D-7777-3436-9CFF-4728859F745C}.Release|Win32.ActiveCfg = Release|Win32
+		{DBF83F1D-7777-3436-9CFF-4728859F745C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

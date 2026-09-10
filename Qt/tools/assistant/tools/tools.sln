@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "assistant", "C:/keymaster/Roblox2016/Library/Qt/tools/assistant/tools/assistant\assistant.vcxproj", "{3A565B88-EFD6-3A53-9F78-52C0A91333E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qhelpgenerator", "C:/keymaster/Roblox2016/Library/Qt/tools/assistant/tools/qhelpgenerator\qhelpgenerator.vcxproj", "{3A4FBD1D-6FED-3588-8131-3B62044E5C61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qcollectiongenerator", "C:/keymaster/Roblox2016/Library/Qt/tools/assistant/tools/qcollectiongenerator\qcollectiongenerator.vcxproj", "{E2C248D9-010B-3D27-9CE6-C26C150D44EF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qhelpconverter", "C:/keymaster/Roblox2016/Library/Qt/tools/assistant/tools/qhelpconverter\qhelpconverter.vcxproj", "{FDF2332C-8BAE-38AA-AFC8-026FC68FB996}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3A565B88-EFD6-3A53-9F78-52C0A91333E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A565B88-EFD6-3A53-9F78-52C0A91333E0}.Debug|Win32.Build.0 = Debug|Win32
+		{3A565B88-EFD6-3A53-9F78-52C0A91333E0}.Release|Win32.ActiveCfg = Release|Win32
+		{3A565B88-EFD6-3A53-9F78-52C0A91333E0}.Release|Win32.Build.0 = Release|Win32
+		{3A4FBD1D-6FED-3588-8131-3B62044E5C61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A4FBD1D-6FED-3588-8131-3B62044E5C61}.Debug|Win32.Build.0 = Debug|Win32
+		{3A4FBD1D-6FED-3588-8131-3B62044E5C61}.Release|Win32.ActiveCfg = Release|Win32
+		{3A4FBD1D-6FED-3588-8131-3B62044E5C61}.Release|Win32.Build.0 = Release|Win32
+		{E2C248D9-010B-3D27-9CE6-C26C150D44EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2C248D9-010B-3D27-9CE6-C26C150D44EF}.Debug|Win32.Build.0 = Debug|Win32
+		{E2C248D9-010B-3D27-9CE6-C26C150D44EF}.Release|Win32.ActiveCfg = Release|Win32
+		{E2C248D9-010B-3D27-9CE6-C26C150D44EF}.Release|Win32.Build.0 = Release|Win32
+		{FDF2332C-8BAE-38AA-AFC8-026FC68FB996}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDF2332C-8BAE-38AA-AFC8-026FC68FB996}.Debug|Win32.Build.0 = Debug|Win32
+		{FDF2332C-8BAE-38AA-AFC8-026FC68FB996}.Release|Win32.ActiveCfg = Release|Win32
+		{FDF2332C-8BAE-38AA-AFC8-026FC68FB996}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

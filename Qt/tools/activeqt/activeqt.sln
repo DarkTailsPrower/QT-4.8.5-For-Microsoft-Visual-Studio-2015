@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dumpdoc", "C:/keymaster/Roblox2016/Library/Qt/tools/activeqt/dumpdoc\dumpdoc.vcxproj", "{E2E69E22-94D7-3BDA-A7F1-612E7AE02067}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dumpcpp", "C:/keymaster/Roblox2016/Library/Qt/tools/activeqt/dumpcpp\dumpcpp.vcxproj", "{E4156950-1005-3DC9-A5ED-B8524BEAA7D9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testcon", "C:/keymaster/Roblox2016/Library/Qt/tools/activeqt/testcon\testcon.vcxproj", "{50C94D8B-65D7-3257-94D4-2B69198470D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E2E69E22-94D7-3BDA-A7F1-612E7AE02067}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2E69E22-94D7-3BDA-A7F1-612E7AE02067}.Debug|Win32.Build.0 = Debug|Win32
+		{E2E69E22-94D7-3BDA-A7F1-612E7AE02067}.Release|Win32.ActiveCfg = Release|Win32
+		{E2E69E22-94D7-3BDA-A7F1-612E7AE02067}.Release|Win32.Build.0 = Release|Win32
+		{E4156950-1005-3DC9-A5ED-B8524BEAA7D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4156950-1005-3DC9-A5ED-B8524BEAA7D9}.Debug|Win32.Build.0 = Debug|Win32
+		{E4156950-1005-3DC9-A5ED-B8524BEAA7D9}.Release|Win32.ActiveCfg = Release|Win32
+		{E4156950-1005-3DC9-A5ED-B8524BEAA7D9}.Release|Win32.Build.0 = Release|Win32
+		{50C94D8B-65D7-3257-94D4-2B69198470D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50C94D8B-65D7-3257-94D4-2B69198470D3}.Debug|Win32.Build.0 = Debug|Win32
+		{50C94D8B-65D7-3257-94D4-2B69198470D3}.Release|Win32.ActiveCfg = Release|Win32
+		{50C94D8B-65D7-3257-94D4-2B69198470D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

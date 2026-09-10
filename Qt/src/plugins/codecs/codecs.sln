@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qcncodecs", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/codecs/cn\qcncodecs.vcxproj", "{98D4B030-AFD9-3335-BD44-D7C0F5044EDE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qjpcodecs", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/codecs/jp\qjpcodecs.vcxproj", "{B78B8DD1-8C3B-3BA5-88A6-7F9B67660FCF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtwcodecs", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/codecs/tw\qtwcodecs.vcxproj", "{C724EBA5-1E84-35E7-B4F9-E0345731F08C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qkrcodecs", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/codecs/kr\qkrcodecs.vcxproj", "{DDE9AE41-3EA9-3283-A4B5-6615639F714F}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{98D4B030-AFD9-3335-BD44-D7C0F5044EDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98D4B030-AFD9-3335-BD44-D7C0F5044EDE}.Debug|Win32.Build.0 = Debug|Win32
+		{98D4B030-AFD9-3335-BD44-D7C0F5044EDE}.Release|Win32.ActiveCfg = Release|Win32
+		{98D4B030-AFD9-3335-BD44-D7C0F5044EDE}.Release|Win32.Build.0 = Release|Win32
+		{B78B8DD1-8C3B-3BA5-88A6-7F9B67660FCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B78B8DD1-8C3B-3BA5-88A6-7F9B67660FCF}.Debug|Win32.Build.0 = Debug|Win32
+		{B78B8DD1-8C3B-3BA5-88A6-7F9B67660FCF}.Release|Win32.ActiveCfg = Release|Win32
+		{B78B8DD1-8C3B-3BA5-88A6-7F9B67660FCF}.Release|Win32.Build.0 = Release|Win32
+		{C724EBA5-1E84-35E7-B4F9-E0345731F08C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C724EBA5-1E84-35E7-B4F9-E0345731F08C}.Debug|Win32.Build.0 = Debug|Win32
+		{C724EBA5-1E84-35E7-B4F9-E0345731F08C}.Release|Win32.ActiveCfg = Release|Win32
+		{C724EBA5-1E84-35E7-B4F9-E0345731F08C}.Release|Win32.Build.0 = Release|Win32
+		{DDE9AE41-3EA9-3283-A4B5-6615639F714F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDE9AE41-3EA9-3283-A4B5-6615639F714F}.Debug|Win32.Build.0 = Debug|Win32
+		{DDE9AE41-3EA9-3283-A4B5-6615639F714F}.Release|Win32.ActiveCfg = Release|Win32
+		{DDE9AE41-3EA9-3283-A4B5-6615639F714F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qmlfolderlistmodelplugin", "C:/keymaster/Roblox2016/Library/Qt/src/imports/folderlistmodel\qmlfolderlistmodelplugin.vcxproj", "{DBE83308-B28B-37EB-BC50-ED74F02B7909}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qmlparticlesplugin", "C:/keymaster/Roblox2016/Library/Qt/src/imports/particles\qmlparticlesplugin.vcxproj", "{29069578-4597-3980-9753-F576951FF65A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qmlgesturesplugin", "C:/keymaster/Roblox2016/Library/Qt/src/imports/gestures\qmlgesturesplugin.vcxproj", "{CE7AA576-EBB2-32DC-9CBA-2BCC6FCD4F69}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qmlshadersplugin", "C:/keymaster/Roblox2016/Library/Qt/src/imports/shaders\qmlshadersplugin.vcxproj", "{01733D3F-F09D-3F6A-B737-4F985F19C6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{DBE83308-B28B-37EB-BC50-ED74F02B7909}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DBE83308-B28B-37EB-BC50-ED74F02B7909}.Debug|Win32.Build.0 = Debug|Win32
+		{DBE83308-B28B-37EB-BC50-ED74F02B7909}.Release|Win32.ActiveCfg = Release|Win32
+		{DBE83308-B28B-37EB-BC50-ED74F02B7909}.Release|Win32.Build.0 = Release|Win32
+		{29069578-4597-3980-9753-F576951FF65A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{29069578-4597-3980-9753-F576951FF65A}.Debug|Win32.Build.0 = Debug|Win32
+		{29069578-4597-3980-9753-F576951FF65A}.Release|Win32.ActiveCfg = Release|Win32
+		{29069578-4597-3980-9753-F576951FF65A}.Release|Win32.Build.0 = Release|Win32
+		{CE7AA576-EBB2-32DC-9CBA-2BCC6FCD4F69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE7AA576-EBB2-32DC-9CBA-2BCC6FCD4F69}.Debug|Win32.Build.0 = Debug|Win32
+		{CE7AA576-EBB2-32DC-9CBA-2BCC6FCD4F69}.Release|Win32.ActiveCfg = Release|Win32
+		{CE7AA576-EBB2-32DC-9CBA-2BCC6FCD4F69}.Release|Win32.Build.0 = Release|Win32
+		{01733D3F-F09D-3F6A-B737-4F985F19C6CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01733D3F-F09D-3F6A-B737-4F985F19C6CF}.Debug|Win32.Build.0 = Debug|Win32
+		{01733D3F-F09D-3F6A-B737-4F985F19C6CF}.Release|Win32.ActiveCfg = Release|Win32
+		{01733D3F-F09D-3F6A-B737-4F985F19C6CF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

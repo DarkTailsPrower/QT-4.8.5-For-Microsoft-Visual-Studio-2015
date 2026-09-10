@@ -1,0 +1,58 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qjpeg", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/imageformats/jpeg\qjpeg.vcxproj", "{A5EC5C75-1935-344C-B857-904A0A5EED90}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qgif", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/imageformats/gif\qgif.vcxproj", "{7C1C3EFA-5C19-3F57-A911-FED3D1E9B8F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qmng", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/imageformats/mng\qmng.vcxproj", "{9928E77B-1E0F-3499-9BF9-E976405A845B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qsvg", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/imageformats/svg\qsvg.vcxproj", "{47DA5411-8D9E-3C33-A2B2-77EC3773F03C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtiff", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/imageformats/tiff\qtiff.vcxproj", "{B9AAA90F-2EEE-36A8-BA3D-BC7E9FD2570B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qico", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/imageformats/ico\qico.vcxproj", "{7A7B515E-E139-3578-ABA4-8DE34679E1A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtga", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/imageformats/tga\qtga.vcxproj", "{98BE589A-8CE4-3A93-8A14-5E6CD82C2549}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A5EC5C75-1935-344C-B857-904A0A5EED90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5EC5C75-1935-344C-B857-904A0A5EED90}.Debug|Win32.Build.0 = Debug|Win32
+		{A5EC5C75-1935-344C-B857-904A0A5EED90}.Release|Win32.ActiveCfg = Release|Win32
+		{A5EC5C75-1935-344C-B857-904A0A5EED90}.Release|Win32.Build.0 = Release|Win32
+		{7C1C3EFA-5C19-3F57-A911-FED3D1E9B8F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C1C3EFA-5C19-3F57-A911-FED3D1E9B8F8}.Debug|Win32.Build.0 = Debug|Win32
+		{7C1C3EFA-5C19-3F57-A911-FED3D1E9B8F8}.Release|Win32.ActiveCfg = Release|Win32
+		{7C1C3EFA-5C19-3F57-A911-FED3D1E9B8F8}.Release|Win32.Build.0 = Release|Win32
+		{9928E77B-1E0F-3499-9BF9-E976405A845B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9928E77B-1E0F-3499-9BF9-E976405A845B}.Debug|Win32.Build.0 = Debug|Win32
+		{9928E77B-1E0F-3499-9BF9-E976405A845B}.Release|Win32.ActiveCfg = Release|Win32
+		{9928E77B-1E0F-3499-9BF9-E976405A845B}.Release|Win32.Build.0 = Release|Win32
+		{47DA5411-8D9E-3C33-A2B2-77EC3773F03C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47DA5411-8D9E-3C33-A2B2-77EC3773F03C}.Debug|Win32.Build.0 = Debug|Win32
+		{47DA5411-8D9E-3C33-A2B2-77EC3773F03C}.Release|Win32.ActiveCfg = Release|Win32
+		{47DA5411-8D9E-3C33-A2B2-77EC3773F03C}.Release|Win32.Build.0 = Release|Win32
+		{B9AAA90F-2EEE-36A8-BA3D-BC7E9FD2570B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9AAA90F-2EEE-36A8-BA3D-BC7E9FD2570B}.Debug|Win32.Build.0 = Debug|Win32
+		{B9AAA90F-2EEE-36A8-BA3D-BC7E9FD2570B}.Release|Win32.ActiveCfg = Release|Win32
+		{B9AAA90F-2EEE-36A8-BA3D-BC7E9FD2570B}.Release|Win32.Build.0 = Release|Win32
+		{7A7B515E-E139-3578-ABA4-8DE34679E1A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A7B515E-E139-3578-ABA4-8DE34679E1A5}.Debug|Win32.Build.0 = Debug|Win32
+		{7A7B515E-E139-3578-ABA4-8DE34679E1A5}.Release|Win32.ActiveCfg = Release|Win32
+		{7A7B515E-E139-3578-ABA4-8DE34679E1A5}.Release|Win32.Build.0 = Release|Win32
+		{98BE589A-8CE4-3A93-8A14-5E6CD82C2549}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98BE589A-8CE4-3A93-8A14-5E6CD82C2549}.Debug|Win32.Build.0 = Debug|Win32
+		{98BE589A-8CE4-3A93-8A14-5E6CD82C2549}.Release|Win32.ActiveCfg = Release|Win32
+		{98BE589A-8CE4-3A93-8A14-5E6CD82C2549}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

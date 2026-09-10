@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtaccessiblewidgets", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/accessible/widgets\qtaccessiblewidgets.vcxproj", "{0454EC10-B67A-358C-8FFB-9879E329D357}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qtaccessiblecompatwidgets", "C:/keymaster/Roblox2016/Library/Qt/src/plugins/accessible/compat\qtaccessiblecompatwidgets.vcxproj", "{0AB5B0AF-E0F1-3F10-B612-FC3FF707AD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug|Win32
+		ConfigName.1 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0454EC10-B67A-358C-8FFB-9879E329D357}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0454EC10-B67A-358C-8FFB-9879E329D357}.Debug|Win32.Build.0 = Debug|Win32
+		{0454EC10-B67A-358C-8FFB-9879E329D357}.Release|Win32.ActiveCfg = Release|Win32
+		{0454EC10-B67A-358C-8FFB-9879E329D357}.Release|Win32.Build.0 = Release|Win32
+		{0AB5B0AF-E0F1-3F10-B612-FC3FF707AD8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0AB5B0AF-E0F1-3F10-B612-FC3FF707AD8C}.Debug|Win32.Build.0 = Debug|Win32
+		{0AB5B0AF-E0F1-3F10-B612-FC3FF707AD8C}.Release|Win32.ActiveCfg = Release|Win32
+		{0AB5B0AF-E0F1-3F10-B612-FC3FF707AD8C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
